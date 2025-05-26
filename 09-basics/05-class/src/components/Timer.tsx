@@ -1,7 +1,6 @@
 import { Component } from 'react';
 import { RepeatClockIcon as ResetIcon } from '@chakra-ui/icons';
 import { Box, Button, Stat, StatLabel, StatNumber } from '@chakra-ui/react';
-import React from 'react'; // 追加
 
 
 type Props = { maxCount?: number };
